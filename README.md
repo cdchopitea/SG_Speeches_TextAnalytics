@@ -26,7 +26,7 @@ Group two, SG2, is not too different than SG1 and it does not appear that “foo
 
 Figure 1: UN Secretary-General word frequency from dating January 18, 2019, to September 16, 2019 (SG1) and filtered based on over 150 repetitions.
 
-![frequency SG2](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/frequency_SG2.png)
+<img src= "https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/frequency_SG2.png" width="500" height="350" />
  
 Figure 2: UN Secretary-General word frequency from dating September 17, 2019, to February 08, 2020 (SG1) and filtered based on over 150 repetitions.
 
@@ -37,7 +37,7 @@ Furthermore, a correlogram was built to compare the relationship between the two
 
 <div align="center">
  
-![corrologram](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/corrologram.png)
+<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/corrologram.png" width="200" height="400" />
  
 Figure 3: Correlogram between SG1 and SG2
 
