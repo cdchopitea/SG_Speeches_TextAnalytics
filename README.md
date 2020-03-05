@@ -17,7 +17,6 @@ In short, the goal of this study is the following:
 2)	To compare, since he agreed to convene the Summit, has he discussed the issue of food systems publicly? 
  <br>
  <br>
- <br>
 <b>2.	Methodology </b> 
  <br>
 For this analysis, a total of 215 speeches were analyzed. The speeches were divided into two groups: The first group (SG1) contains speeches dating January 18, 2019, to September 16, 2019 (end of 74th Session of the General Assembly and the month the SG agreed to convene the Summit). The second group (SG2) contains speeches dating from September 17, 2019, to February 8, 2020 (after it was agreed that there is a need to be built momentum) (access speeches here).
@@ -25,12 +24,9 @@ For this analysis, a total of 215 speeches were analyzed. The speeches were divi
 Rstudio was used to conduct the analysis and the frameworks used include frequency analysis, correlation analysis, and sentiment and network analysis (please see R code in the Appendix).
 <br>
 <br>
-<br>
 <b>3.	Findings</b>
  <br>
- <br>
 <i>3.1 Frequency Analysis</i>
- <br>
  <br>
 For group one, SG1, the most frequently used words are ‘climate’ followed by ‘world’, ‘people’ and ‘development’. If one looks at what the SG has been doing throughout 2019, these words matched with the discourse he is creating: In 2019 he convened the Climate Action Summit and has framed climate change as a central issue, critical to the achievement of the 2030 Agenda for Sustainable Development (Hertsgaard, 18; United Nations, 2019).  The frequency of these words suggests that issues related to climate and development are at the top of his agenda (see Figure 1). Since he mentioned climate so often, it could have been expected that he would make a greater emphasis on youth as he claims that involving youth and youth leadership is central to climate action (General, 2019). 
  <br>
