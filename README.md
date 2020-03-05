@@ -17,6 +17,10 @@ For this analysis, a total of 215 speeches were analyzed. The speeches were divi
 For group one, SG1, the most frequently used words are ‘climate’ followed by ‘world’, ‘people’ and ‘development’. If one looks at what the SG has been doing throughout 2019, these words matched with the discourse he is creating: In 2019 he convened the Climate Action Summit and has framed climate change as a central issue, critical to the achievement of the 2030 Agenda for Sustainable Development (Hertsgaard, 18; United Nations, 2019).  The frequency of these words suggests that issues related to climate and development are at the top of his agenda (see Figure 1). Since he mentioned climate so often, it could have been expected that he would make a greater emphasis on youth as he claims that involving youth and youth leadership is central to climate action (General, 2019). 
 Group two, SG2, is not too different than SG1 and it does not appear that “food” or “systems” have been highly incorporated in its speeches. He only mentioned ‘food’ a total of 15 times since September compared to ‘climate’ (398 times), and he mentioned ‘hunger’ only 7 times (see Figure 2).
 
+
+
+![frecuency SG1](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/frequency_SG1.png)
+
  
 Figure 1: UN Secretary-General word frequency from dating January 18, 2019, to September 16, 2019 (SG1) and filtered based on over 150 repetitions.
 
