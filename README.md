@@ -1,4 +1,4 @@
-# SG_Speeches_TextAnalytics
+# Understanding the United Nations Secretary General’s Political Agenda: using Rstudio to analyze speeches
 Analyzing speeches by the United Nations Secretary General using text analytics tools and packages in R
 
 
