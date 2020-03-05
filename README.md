@@ -73,7 +73,7 @@ Moreover, a word cloud was created to evaluate how his words relate to feelings 
 
 <div align="center">
  
-![wordcloud](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/wordcloud_SG.png)
+<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/wordcloud_SG.png" with="500" height="500" />
  
 Figure 6: UN Secretary-General cloud word sentiment analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1).
 
