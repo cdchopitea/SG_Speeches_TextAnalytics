@@ -37,7 +37,7 @@ Furthermore, a correlogram was built to compare the relationship between the two
 
 <div align="center">
  
-<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/corrologram.png" width="200" height="400" />
+<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/corrologram.png" width="500" height="400" />
  
 Figure 3: Correlogram between SG1 and SG2
 
