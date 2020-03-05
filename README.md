@@ -21,6 +21,7 @@ For group one, SG1, the most frequently used words are ‘climate’ followed by
 Group two, SG2, is not too different than SG1 and it does not appear that “food” or “systems” have been highly incorporated in its speeches. He only mentioned ‘food’ a total of 15 times since September compared to ‘climate’ (398 times), and he mentioned ‘hunger’ only 7 times (see Figure 2).
 
 <div align="center">
+ 
 ![frecuency SG1](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/frequency_SG1.png)
 
 Figure 1: UN Secretary-General word frequency from dating January 18, 2019, to September 16, 2019 (SG1) and filtered based on over 150 repetitions.
@@ -28,6 +29,7 @@ Figure 1: UN Secretary-General word frequency from dating January 18, 2019, to S
 ![frequency SG2](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/frequency_SG2.png)
  
 Figure 2: UN Secretary-General word frequency from dating September 17, 2019, to February 08, 2020 (SG1) and filtered based on over 150 repetitions.
+
 </div>
 
 <i>3.2 Relationship between SG1 and SG2</i>
