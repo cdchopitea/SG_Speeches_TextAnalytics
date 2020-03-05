@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-# Understanding the United Nations Secretary General’s Political Agenda: using Rstudio to analyze speeches
+# Understanding the United Nations Secretary General’s Political Agenda: using R to analyze speeches
 <i>Analyzing speeches by the United Nations Secretary General using text analytics tools and packages in R </i>
 
 
