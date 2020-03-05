@@ -6,18 +6,19 @@
 <div align="justify">
  <b> 1.	 Background </b> 
  <br> <br>
-The United Nations International Fund for Agricultural Development (IFAD) alongside the Food and Agriculture Organization, World Food Program and other UN-agencies are working in partnership to create a world Summit on Food Systems in 2021 to be convened by the UN Secretary-General (SG), Antonio Guterres.  The concept was to present a project proposal to the SG and ask for his endorsement and leadership. In September, before the UN General Assembly (UNGA) 2019, he agreed to convene the Summit, and the agencies had to prepare a launching and Summit process strategy.
+The United Nations International Fund for Agricultural Development (IFAD) alongside the Food and Agriculture Organization, World Food Program and other UN-agencies and organazations are working in partnership to convoke a world Summit on Food Systems in 2021 to be convened by the UN Secretary-General (SG), Antonio Guterres.  The basi idea was to present a project proposal to the SG and ask for his endorsement and leadership. In September, before the UN General Assembly (UNGA) 2019, he agreed to convene the Summit, and the agencies had to prepare a launching and Summit process strategy.
  <br>
-As a text analyst at IFAD I was tasked with analyzing speeches by the SG in to make a data-driven decision for the launching and process strategy. The initial proposal suggested the Summit was set to initiate during the UNGA of 2019. On the other hand, there was evidence to believe that the SG has not taken on the issue of “food” as an essential part of his agenda inferring time should be allowed to build upon this issue. The idea was for the SG to use the high-level week (UNGA) to begin discussing public issues related to food systems from then on. 
+As a text analyst I was tasked with analyzing speeches by the SG to make a data-driven decision for the launching and process strategy of the Summit. The initial proposal suggested the Summit meant to "kick off" during the UNGA of 2019. On the other hand, there was evidence to believe that the SG had not taken on the issue of “food” as an essential part of his agenda, and thus, inferring time should be allowed to build upon this issue and create momentum. As a result, the primarly idea was for the SG to use the high-level week (UNGA) to begin discussing public issues related to food systems from then on. 
  <br>
 In short, the goal of this study is the following: 
  <br>
-1)	Analyzed what issues the SG talks about, what is in his agenda, and identify if he is discussing food or food systems, if he does, how has he framed it.
+1)	Analyzed what issues the SG talks about, what is central to his agenda, and identify if he is discussing food or food systems, if he does, how has he framed it.
  <br>
-2)	To compare, since he agreed to convene the Summit, has he discussed the issue of food systems publicly? 
+2)	To compare and contrast: since he agreed to convene the Summit, has he increased his discussion of issue around food systems publicly? 
  <br>
  <br>
 <b>2.	Methodology </b> 
+ <br>
  <br>
 For this analysis, a total of 215 speeches were analyzed. The speeches were divided into two groups: The first group (SG1) contains speeches dating January 18, 2019, to September 16, 2019 (end of 74th Session of the General Assembly and the month the SG agreed to convene the Summit). The second group (SG2) contains speeches dating from September 17, 2019, to February 8, 2020 (after it was agreed that there is a need to be built momentum) (access speeches here).
  <br>
@@ -27,6 +28,7 @@ Rstudio was used to conduct the analysis and the frameworks used include frequen
 <b>3.	Findings</b>
  <br>
 <i>3.1 Frequency Analysis</i>
+ <br>
  <br>
 For group one, SG1, the most frequently used words are ‘climate’ followed by ‘world’, ‘people’ and ‘development’. If one looks at what the SG has been doing throughout 2019, these words matched with the discourse he is creating: In 2019 he convened the Climate Action Summit and has framed climate change as a central issue, critical to the achievement of the 2030 Agenda for Sustainable Development (Hertsgaard, 18; United Nations, 2019).  The frequency of these words suggests that issues related to climate and development are at the top of his agenda (see Figure 1). Since he mentioned climate so often, it could have been expected that he would make a greater emphasis on youth as he claims that involving youth and youth leadership is central to climate action (General, 2019). 
  <br>
@@ -48,8 +50,8 @@ Group two, SG2, is not too different than SG1 and it does not appear that “foo
 </div>
  <br>
  <br>
- <br>
 <i>3.2 Relationship between SG1 and SG2</i>
+<br>
 <br>
 Furthermore, a correlogram was built to compare the relationship between the two sets of speeches (see Figure 3). Viewing the correlogram we can observe that the SG’s agenda has stayed much the same between the two periods, consistently discussing issues such as climate change. The two groups are highly similar and as a result, they have a very high correlation (of 94%). This result indicates that his agenda has remained much or less the same.
 
@@ -63,8 +65,6 @@ Furthermore, a correlogram was built to compare the relationship between the two
 </div>
 <br>
 <br>
-<br>
-
 <i>3.3 Bigrams and quadrograms: Observing relationships between words </i>
 <br>
 <br>
@@ -72,7 +72,6 @@ Furthermore, a correlogram was built to compare the relationship between the two
 <br>
 <br>
 In an attempt to give context to his speeches, bigrams (two words bind together) were created. The most frequent topics discussed in group one were: ‘climate change’ (217 repetitions), ‘sustainable development’ (183), ‘human rights’ (116), and ‘climate action’ (86).  In group two, the most frequent words repeated together also include ‘sustainable development’ (127), ‘climate change’ (106), ‘climate action’ (103), and ‘human rights’ (84). These issues continue to be of top priority for the SG pre and post the 74th Session of the UN General Assembly. 
-<br>
 <br>
 <br>
 <i>Qudrogram</i>
@@ -87,8 +86,6 @@ In the second group, he emphasizes on the Israeli Palestinian conflict insisting
 He also mentions that ‘nationalist narrative gain appeal’ and that ‘ethnic nationalist narrative gain’, this call is most likely a reflection of what is been happening in the world: increased nationalist sentiment and ethnic conflicts, from Brexit and Trump’s, Bolsonaro’s and Modi’s presidencies, to the occupation of Palestine, the persecution of minority Muslim groups in Myanmar, China and  Kazakhstan and other religious and ethnic clashes in Africa and the Middle East (The Economist, 2020; Saavedra, 2019; News, 2020; Hughes, 2018; Varshalomidze, 202). The issues discussed in the second group appear to have slightly shifted from climate change issues to human rights concerns. 
 <br>
 <br>
-<br>
-
 <i>3.4 Sentiment analysis</i>
 <br>
 <br>
@@ -118,7 +115,6 @@ Moreover, a word cloud was created to evaluate how his words relate to feelings 
 </div>
 <br>
 <br>
-<br>
 <i>3.5 Visualizing networks between related words </i>
 <br>
 <br>
@@ -135,7 +131,6 @@ Finally, a network to visualize the relationship among words simultaneously was.
 <i>Figure 7: UN Secretary-General bigram network analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1) showing only those repetitions over 17 times.</i>
 
 </div>
-<br>
 <br>
 <br>
 <b>4.	Conclusions and recommendations </b>
