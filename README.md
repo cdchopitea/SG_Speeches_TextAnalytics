@@ -3,7 +3,7 @@
 <i>Analyzing speeches by the United Nations Secretary General using text analytics tools and packages in R </i>
 
 
-<div align="center">
+<div align="justify">
 1.	 Background 
 The United Nations International Fund for Agricultural Development (IFAD) alongside the Food and Agriculture Organization, World Food Program and other UN-agencies are working in partnership to create a world Summit on Food Systems in 2021 to be convened by the UN Secretary-General (SG), Antonio Guterres.  The concept was to present a project proposal to the SG and ask for his endorsement and leadership. In September, before the UN General Assembly (UNGA) 2019, he agreed to convene the Summit, and the agencies had to prepare a launching and Summit process strategy.
 As a text analyst at IFAD I was tasked with analyzing speeches by the SG in to make a data-driven decision for the launching and process strategy. The initial proposal suggested the Summit was set to initiate during the UNGA of 2019. On the other hand, there was evidence to believe that the SG has not taken on the issue of “food” as an essential part of his agenda inferring time should be allowed to build upon this issue. The idea was for the SG to use the high-level week (UNGA) to begin discussing public issues related to food systems from then on. 
