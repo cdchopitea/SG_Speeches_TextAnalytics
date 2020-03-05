@@ -37,7 +37,7 @@ Furthermore, a correlogram was built to compare the relationship between the two
 
 <div align="center">
  
-<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/corrologram.png" width="450" height="400" />
+<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/corrologram.png" width="400" height="400" />
  
 Figure 3: Correlogram between SG1 and SG2
 
@@ -60,7 +60,7 @@ The most frequently positive and negative words used by the SG were analyzed: On
 <div align="center">
  
 
-<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/negative_SG1.png" width = "350" height="550" />
+<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/negative_SG1.png" width = "350" height="440" />
 
 Figure 4: UN Secretary General top ten most frequent positive and negative words from speeches dating September 17, 2019 to February 08, 2020 (SG1).
 
