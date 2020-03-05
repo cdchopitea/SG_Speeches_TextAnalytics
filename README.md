@@ -50,13 +50,12 @@ The most frequently positive and negative words used by the SG were analyzed: On
 
 
 
-
-
-
+![positive/negative SG1](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/negative_SG1.png)
 
  
 Figure 4: UN Secretary General top ten most frequent positive and negative words from speeches dating September 17, 2019 to February 08, 2020 (SG1).
 
+![positive/negative SG2](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/negative_SG2.png)
  
 Figure 5: UN Secretary General top ten most frequent positive and negative words from speeches dating September 17, 2019 to February 08, 2020 (SG 2)
 
