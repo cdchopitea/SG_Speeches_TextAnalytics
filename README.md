@@ -60,12 +60,13 @@ Figure 4: UN Secretary General top ten most frequent positive and negative words
 Figure 5: UN Secretary General top ten most frequent positive and negative words from speeches dating September 17, 2019 to February 08, 2020 (SG 2)
 
 Moreover, a word cloud was created to evaluate how his words relate to feelings of disgust, anticipation, anger, trust, surprise, sadness, positive, negative, joy and fear. For both groups, it seems that he is quite balanced in his sentiments throughout his speeches with extra emphasis on words that resemble disgust, surprise, and joy (see Figure 6 for group one word cloud). This pattern repeats itself for group two.
+
+![wordcloud](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/wordcloud_SG.png)
  
 Figure 6: UN Secretary-General cloud word sentiment analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1).
 
 3.5 Visualizing networks between related words 
 Finally, a network to visualize the relationship among words simultaneously was. Again, the pattern remains much the same. Climate change continues to be a top priority issue for the SG and it is connected with action, summit and security (see Figures 6 and 7). This again is in agreement with what was previously found: firstly that climate is at the top of the SG’s agenda and thus he convened a Summit about it, and secondly that he is framing the issue as one that needs action, particularly international action. This pattern can be seen again in the second group of speeches.
-
 
 
  
