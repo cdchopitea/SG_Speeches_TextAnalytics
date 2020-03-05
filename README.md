@@ -19,6 +19,7 @@ In short, the goal of this study is the following:
  <br>
  <br>
 <b>2.	Methodology </b> 
+ <br>
 For this analysis, a total of 215 speeches were analyzed. The speeches were divided into two groups: The first group (SG1) contains speeches dating January 18, 2019, to September 16, 2019 (end of 74th Session of the General Assembly and the month the SG agreed to convene the Summit). The second group (SG2) contains speeches dating from September 17, 2019, to February 8, 2020 (after it was agreed that there is a need to be built momentum) (access speeches here).
  <br>
 Rstudio was used to conduct the analysis and the frameworks used include frequency analysis, correlation analysis, and sentiment and network analysis (please see R code in the Appendix).
@@ -35,25 +36,31 @@ For group one, SG1, the most frequently used words are ‘climate’ followed by
  <br>
 Group two, SG2, is not too different than SG1 and it does not appear that “food” or “systems” have been highly incorporated in its speeches. He only mentioned ‘food’ a total of 15 times since September compared to ‘climate’ (398 times), and he mentioned ‘hunger’ only 7 times (see Figure 2).
 <br>
+ 
 <div align="center">
  
-<img src= "https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/frequency_SG1.png" width="500" height="350" />
-<i>Figure 1: UN Secretary-General word frequency from dating January 18, 2019, to September 16, 2019 (SG1) and filtered based on over 150 repetitions. </i>
+ <img src= "https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/frequency_SG1.png" width="500" height="350" />
+
+ <i>Figure 1: UN Secretary-General word frequency from dating January 18, 2019, to September 16, 2019 (SG1) and filtered based on over 150 repetitions. </i>
+
 <br>
-<img src= "https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/frequency_SG2.png" width="500" height="350" />
-<i>Figure 2: UN Secretary-General word frequency from dating September 17, 2019, to February 08, 2020 (SG1) and filtered based on over 150 repetitions.</i>
+
+ <img src= "https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/frequency_SG2.png" width="500" height="350" />
+
+ <i>Figure 2: UN Secretary-General word frequency from dating September 17, 2019, to February 08, 2020 (SG1) and filtered based on over 150 repetitions.</i>
 
 </div>
  <br>
  <br>
  <br>
-
 <i>3.2 Relationship between SG1 and SG2</i>
+<br>
 Furthermore, a correlogram was built to compare the relationship between the two sets of speeches (see Figure 3). Viewing the correlogram we can observe that the SG’s agenda has stayed much the same between the two periods, consistently discussing issues such as climate change. The two groups are highly similar and as a result, they have a very high correlation (of 94%). This result indicates that his agenda has remained much or less the same.
 
 <div align="center">
  
-<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/corrologram.png" width="480" height="430" />
+ <img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/corrologram.png" width="500" height="430" />
+<br>
  
 <i><Figure 3: Correlogram between SG1 and SG2</i>
 
@@ -99,7 +106,7 @@ The most frequently positive and negative words used by the SG were analyzed: On
 <i>Figure 4: UN Secretary General top ten most frequent positive and negative words from speeches dating September 17, 2019 to February 08, 2020 (SG1).</i>
 <br>
 
-<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/negative_SG2.png" width = "500" height="540" />
+ <img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/negative_SG2.png" width = "500" height="540" />
  
 <i> Figure 5: UN Secretary General top ten most frequent positive and negative words from speeches dating September 17, 2019 to February 08, 2020 (SG 2)</i>
 <br>
@@ -109,9 +116,9 @@ Moreover, a word cloud was created to evaluate how his words relate to feelings 
 
 <div align="center">
  
-<img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/wordcloud_SG.png" with="500" height="500" />
+ <img src="https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/wordcloud_SG.png" with="500" height="500" />
  
-<i>Figure 6: UN Secretary-General cloud word sentiment analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1).</i>
+ <i>Figure 6: UN Secretary-General cloud word sentiment analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1).</i>
 </div>
 <br>
 <br>
@@ -123,12 +130,12 @@ Finally, a network to visualize the relationship among words simultaneously was.
 <br>
 <div align="center">
  
-![network SG1](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/networkSG1.PNG)
+ ![network SG1](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/networkSG1.PNG)
 
 <i>Figure 6: UN Secretary-General bigram network analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1) showing only those repetitions over 17 times.</i>
 <br>
 ![network SG2](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/networkSG2.PNG)
- 
+<br>
 <i>Figure 7: UN Secretary-General bigram network analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1) showing only those repetitions over 17 times.</i>
 
 </div>
@@ -139,12 +146,15 @@ Finally, a network to visualize the relationship among words simultaneously was.
 <br>
 <br>
 The goal of this assessment was to compare two groups of speeches and understand what issues are in the SG’s agenda and identify if he is now talking about food or food systems, and if he does, how he frames it. And secondly, to compared whether since he agreed to convene the Summit he has discussed the issue of food systems publicly. It can be concluded that the SG has not boosted a public discourse around ‘food systems’ or ‘food’ at all, and a lack of leadership appears throughout.
+<br>
  Most of his agenda has focused on climate change and human rights with a focus on a call to action to the international community. This is, in fact, problematic since the Food Systems Summit is supposed to take place in a year. If the SG is not taking on this issue it will be very unlikely that heads of state will take the Summit serious, which will result in little action towards improving our broken food systems. 
+ <br>
 As a result, the Summit team needs to refocus the SG agenda, that is if they want the Summit to take place at the highest possible level (head of state) and result in concrete actions. For example, to increase the visibility of the food issues and the Summit the SG could take advantage of the upcoming G20, and attempt to inserted food systems in the discussion. As well, the SG could take advantage of the upcoming High-Level Political Forum on Sustainable Development and UN General Assembly to continue building on this issue. 
 <br>
 <br>
 <br>
 <b>5.	References</b>
+<br>
 General, U. N. (2019, September 21). Secretary-General's remarks to Youth Climate Summit [as delivered]. UNited Nations. Retrieved from: https://www.un.org/sg/en/content/sg/statement/2019-09-21/secretary-generals-remarks-youth-climate-summit-delivered.
 <br>
 FAO. (2020, February 20). FAO Regional Conference for Asia and the Pacific. From: http://www.fao.org/3/nc131en/nc131en.pdf.
