@@ -32,6 +32,8 @@ Figure 2: UN Secretary-General word frequency from dating September 17, 2019, to
 3.2 Relationship between SG1 and SG2
 Furthermore, a correlogram was built to compare the relationship between the two sets of speeches (see Figure 3). Viewing the correlogram we can observe that the SG’s agenda has stayed much the same between the two periods, consistently discussing issues such as climate change. The two groups are highly similar and as a result, they have a very high correlation (of 94%). This result indicates that his agenda has remained much or less the same.
 
+![corrologram](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/corrologram.png)
+
  
 Figure 3: Correlogram between SG1 and SG2
 
