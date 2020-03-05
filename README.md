@@ -1,7 +1,9 @@
+<!DOCTYPE html>
 # Understanding the United Nations Secretary General’s Political Agenda: using Rstudio to analyze speeches
-Analyzing speeches by the United Nations Secretary General using text analytics tools and packages in R
+<i>Analyzing speeches by the United Nations Secretary General using text analytics tools and packages in R </i>
 
 
+<div align="center">
 1.	 Background 
 The United Nations International Fund for Agricultural Development (IFAD) alongside the Food and Agriculture Organization, World Food Program and other UN-agencies are working in partnership to create a world Summit on Food Systems in 2021 to be convened by the UN Secretary-General (SG), Antonio Guterres.  The concept was to present a project proposal to the SG and ask for his endorsement and leadership. In September, before the UN General Assembly (UNGA) 2019, he agreed to convene the Summit, and the agencies had to prepare a launching and Summit process strategy.
 As a text analyst at IFAD I was tasked with analyzing speeches by the SG in to make a data-driven decision for the launching and process strategy. The initial proposal suggested the Summit was set to initiate during the UNGA of 2019. On the other hand, there was evidence to believe that the SG has not taken on the issue of “food” as an essential part of his agenda inferring time should be allowed to build upon this issue. The idea was for the SG to use the high-level week (UNGA) to begin discussing public issues related to food systems from then on. 
@@ -95,4 +97,7 @@ UN News. (2019 A, November 7). Antisemitism, intolerance, can be unlearned, Gute
 UN News. (2019 B, October 9). German synagogue shooting ‘another tragic demonstration of antisemitism’: UN chief. UN News. Retrieved from: https://news.un.org/en/story/2019/10/1048901.
 United Nations. (2019, December 1). Amid worsening climate crisis, UN Secretary-General sets out top ten climate action priorities for 2020, vows to stay on frontlines. Sustainable Development Goals, p. Retrieved from: https://www.un.org/sustainabledevelopment/blog/2019/12/77358/.
 Varshalomidze, T. (202, February 10). Ethnic violence blows hole in Kazakhstan's narrative of tolerance. AlJazeera, pp. https://www.aljazeera.com/news/2020/02/ethnic-violence-blows-hole-kazakhstan-narrative-tolerance-200210091600580.html.
+
+</div>
+</hmtl>
 
