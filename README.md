@@ -68,9 +68,12 @@ Figure 6: UN Secretary-General cloud word sentiment analysis from speeches datin
 3.5 Visualizing networks between related words 
 Finally, a network to visualize the relationship among words simultaneously was. Again, the pattern remains much the same. Climate change continues to be a top priority issue for the SG and it is connected with action, summit and security (see Figures 6 and 7). This again is in agreement with what was previously found: firstly that climate is at the top of the SG’s agenda and thus he convened a Summit about it, and secondly that he is framing the issue as one that needs action, particularly international action. This pattern can be seen again in the second group of speeches.
 
+![network SG1](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/networkSG1.PNG)
 
  
 Figure 6: UN Secretary-General bigram network analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1) showing only those repetitions over 17 times.
+
+![network SG2](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/networkSG2.PNG)
 
  
 Figure 7: UN Secretary-General bigram network analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1) showing only those repetitions over 17 times.
