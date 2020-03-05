@@ -36,9 +36,11 @@ Figure 2: UN Secretary-General word frequency from dating September 17, 2019, to
 Furthermore, a correlogram was built to compare the relationship between the two sets of speeches (see Figure 3). Viewing the correlogram we can observe that the SG’s agenda has stayed much the same between the two periods, consistently discussing issues such as climate change. The two groups are highly similar and as a result, they have a very high correlation (of 94%). This result indicates that his agenda has remained much or less the same.
 
 <div align="center">
+ 
 ![corrologram](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/corrologram.png)
  
 Figure 3: Correlogram between SG1 and SG2
+
 </div>
 
 <i>3.3 Bigrams and quadrograms: Observing relationships between words </i>
@@ -56,6 +58,7 @@ He also mentions that ‘nationalist narrative gain appeal’ and that ‘ethnic
 The most frequently positive and negative words used by the SG were analyzed: On the negative side, conflict is at the top of the list in both groups alongside terrorism, hate, violence, attacks, poverty, and extremism among others. This again can be reflected in his bigger discourse. In both groups, positive words include support (most likely from the international community, given what has been analyzed thus far). Words like support, solidarity, sustainable, peace, progress, and commitment, may reflect his commitment to multilateralism (see Figure 4 and Figure 5 for most frequent positive and negative words).
 
 <div align="center">
+ 
 ![positive/negative SG1](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/negative_SG1.png)
 
 Figure 4: UN Secretary General top ten most frequent positive and negative words from speeches dating September 17, 2019 to February 08, 2020 (SG1).
@@ -63,19 +66,23 @@ Figure 4: UN Secretary General top ten most frequent positive and negative words
 ![positive/negative SG2](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/negative_SG2.png)
  
 Figure 5: UN Secretary General top ten most frequent positive and negative words from speeches dating September 17, 2019 to February 08, 2020 (SG 2)
+
 </div>
 Moreover, a word cloud was created to evaluate how his words relate to feelings of disgust, anticipation, anger, trust, surprise, sadness, positive, negative, joy and fear. For both groups, it seems that he is quite balanced in his sentiments throughout his speeches with extra emphasis on words that resemble disgust, surprise, and joy (see Figure 6 for group one word cloud). This pattern repeats itself for group two.
 
 <div align="center">
+ 
 ![wordcloud](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/wordcloud_SG.png)
  
 Figure 6: UN Secretary-General cloud word sentiment analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1).
+
 </div>
 
 <i>3.5 Visualizing networks between related words </i>
 Finally, a network to visualize the relationship among words simultaneously was. Again, the pattern remains much the same. Climate change continues to be a top priority issue for the SG and it is connected with action, summit and security (see Figures 6 and 7). This again is in agreement with what was previously found: firstly that climate is at the top of the SG’s agenda and thus he convened a Summit about it, and secondly that he is framing the issue as one that needs action, particularly international action. This pattern can be seen again in the second group of speeches.
 
 <div align="center">
+ 
 ![network SG1](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/networkSG1.PNG)
 
 Figure 6: UN Secretary-General bigram network analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1) showing only those repetitions over 17 times.
@@ -83,6 +90,7 @@ Figure 6: UN Secretary-General bigram network analysis from speeches dating Sept
 ![network SG2](https://github.com/cdchopitea/SG_Speeches_TextAnalytics/blob/master/networkSG2.PNG)
  
 Figure 7: UN Secretary-General bigram network analysis from speeches dating September 17, 2019, to February 08, 2020 (SG1) showing only those repetitions over 17 times.
+
 </div>
 
 <i>4.	Conclusions and recommendations </i>
