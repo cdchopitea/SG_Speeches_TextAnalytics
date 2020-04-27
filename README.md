@@ -20,10 +20,14 @@ The United Nations International Fund for Agricultural Development (IFAD) alongs
 The United Nations International Fund for Agricultural Development (IFAD) alongside the Food and Agriculture Organization, World Food Program and other UN-agencies are working in partnership to create a world Summit on food systems (Food Systems Summit) in 2021 to be convened by the UN Secretary-General (SG), Antonio Guterres.  The concept was to present a project proposal to the SG and ask for his endorsement and leadership. In September, before the UN General Assembly (UNGA) 2019, the SG agreed to convene the Summit, and the agencies had to prepare a launching and process strategy for it. 
  <br>
 In short, the goal of this study is the following: 
- <br>
-1)	Analyzed what issues the SG talks about, what is in his agenda, and identify if he is discussing food or food systems, if he does, how is the matter framed.
 <br>
+
+1)	Analyzed what issues the SG talks about, what is in his agenda, and identify if he is discussing food or food systems, if he does, how is the matter framed.
+
+<br>
+
 2) To compare, since he agreed to convene the Summit, has he increased his public discussion of food systems issues and their capacity to help in the achievements of the Sustainable Development Goals (SDGs)?
+
  <br>
  <br>
 <b>2.	Methodology </b> 
